@@ -18,21 +18,21 @@ public class ProductService {
         Product p3 = new Product(3, "Áo sơ mi", 450000, 25, Category.FASHION, 5);
         products.add(p3);
         Product p4 = new Product(4, "Bánh", 2000, 25, Category.FOOD, 19);
-        products.add(p1);
+        products.add(p4);
 
         Product p5 = new Product(5, "Sách giáo khoa", 50000, 260, Category.HOUSEHOLD, 153);
-        products.add(p2);
+        products.add(p5);
 
         Product p6 = new Product(6, "Áo sơ mi", 450000, 25, Category.FASHION, 5);
-        products.add(p3);
+        products.add(p6);
         Product p7 = new Product(7, "Bánh", 2000, 25, Category.FOOD, 19);
-        products.add(p1);
+        products.add(p7);
 
         Product p8 = new Product(8, "Sách giáo khoa", 50000, 260, Category.HOUSEHOLD, 153);
-        products.add(p2);
+        products.add(p8);
 
         Product p9 = new Product(9, "Áo sơ mi", 450000, 25, Category.FASHION, 5);
-        products.add(p3);
+        products.add(p9);
 
     }
 
